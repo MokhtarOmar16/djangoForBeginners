@@ -1,6 +1,7 @@
 *.pyc
 __pycache
-.DS_Store
 .git
 .vscode
 .venv
+.env
+db.sqlite3
