@@ -16,4 +16,4 @@ After reading this book, you will have a solid understanding of how Django works
 <li>Implement a Models file for your db</li>
 <li>Django architecture and how it works</li>
 <li>Implement authentication using the Django authentication framework</li>
-<li>deploymet yout app and more ...</li>
+<li>deploymet your app and more ...</li>
